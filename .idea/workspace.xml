@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93af151e-53fe-41d9-ad29-61410a9767c9" name="Changes" comment="testNG">
+      <change afterPath="$PROJECT_DIR$/crossBrowserSirali.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paralelCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siraliCalismaGroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siraliCalistirmaClass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siraliCalistirmaMethod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siraliCalistirmaPackage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siraliCalistirmaTumTestleriCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C01_RaporluClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C02_RaporluPositiveLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C03_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C04_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ders14_crossBrowser/C01_CrossBrowserAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ders14_crossBrowser/C02_CrossBrowserPozitifLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CrossDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders11_testNGFramework/C01_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders11_testNGFramework/C01_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders11_testNGFramework/C04_POMIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders11_testNGFramework/C04_POMIlkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders11_testNGFramework/C05_DriverKullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders11_testNGFramework/C05_DriverKullanimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders12_assertions_PomGelistirmeler/C01_HardAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders12_assertions_PomGelistirmeler/C01_HardAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LbVzaeluBuQTxHb8V29U1oahdR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests.ders13_TestNGreports" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C01_RaporluClass">
+    <configuration name="C01_RaporluClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders13_TestNGreports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders13_TestNGreports" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders13_TestNGreports.C01_RaporluClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders13_TestNGreports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders13_TestNGreports" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders13_TestNGreports.C03_DataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_DataProvider.negatifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders13_TestNGreports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders13_TestNGreports" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders13_TestNGreports.C03_DataProvider" />
+      <option name="METHOD_NAME" value="negatifLoginTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders13_TestNGreports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders13_TestNGreports" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders13_TestNGreports.C04_DataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_POMIlkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders11_testNGFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders11_testNGFramework" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders11_testNGFramework.C04_POMIlkTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C01_RaporluClass" />
+        <item itemvalue="TestNG.C04_DataProvider" />
+        <item itemvalue="TestNG.C03_DataProvider.negatifLoginTesti" />
+        <item itemvalue="TestNG.C03_DataProvider" />
+        <item itemvalue="TestNG.C04_POMIlkTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93af151e-53fe-41d9-ad29-61410a9767c9" name="Changes" comment="" />
+      <created>1676140035890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676140035890</updated>
+      <workItem from="1676140037227" duration="7054000" />
+      <workItem from="1676219354007" duration="8793000" />
+      <workItem from="1676284990423" duration="13088000" />
+      <workItem from="1676368708825" duration="2482000" />
+      <workItem from="1676374317715" duration="9080000" />
+      <workItem from="1676467065723" duration="1107000" />
+      <workItem from="1676490724805" duration="3914000" />
+      <workItem from="1676579726393" duration="855000" />
+      <workItem from="1676622012958" duration="1637000" />
+      <workItem from="1676628651781" duration="3277000" />
+      <workItem from="1676716165924" duration="3490000" />
+      <workItem from="1676743356150" duration="9001000" />
+      <workItem from="1676753224190" duration="159000" />
+      <workItem from="1676802355910" duration="3083000" />
+      <workItem from="1676810608586" duration="1495000" />
+      <workItem from="1676829929715" duration="10000" />
+      <workItem from="1676830009636" duration="3685000" />
+      <workItem from="1676912635577" duration="1327000" />
+      <workItem from="1676972392316" duration="21637000" />
+      <workItem from="1677023225420" duration="242000" />
+      <workItem from="1677023687366" duration="622000" />
+      <workItem from="1677058690025" duration="599000" />
+      <workItem from="1677066514756" duration="77000" />
+      <workItem from="1677066605512" duration="617000" />
+      <workItem from="1677070012863" duration="2032000" />
+      <workItem from="1677085915432" duration="2290000" />
+      <workItem from="1677102422642" duration="3921000" />
+      <workItem from="1677111171862" duration="7000" />
+      <workItem from="1677171583270" duration="1753000" />
+    </task>
+    <task id="LOCAL-00001" summary="testNG">
+      <created>1676627848623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676627848623</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testNG">
+      <created>1676627877537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676627877537</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testNG">
+      <created>1676627919231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676627919231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testNG">
+      <created>1676627937842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676627937842</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testNG" />
+    <option name="LAST_COMMIT_MESSAGE" value="testNG" />
+  </component>
+</project>
